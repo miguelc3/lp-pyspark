@@ -9,7 +9,7 @@ This collection of modules is designed to help you learn how to work with Big Da
 
 1. **Spark Introduction**
 
-    Covers the basics of Apache Spark, including its architecture, key components, and the fundamentals of working with Spark to handle Big Data. Also introduces the Databricks environment and PySpark RDDs.
+    Covers the basics of Apache Spark, including its architecture, key components, and the fundamentals of working with Spark to handle Big Data.
 
 2. **PySpark DataFrames**
 
